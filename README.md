@@ -89,5 +89,31 @@ After the cleaning process:
 - Number Formatting
 
 ---
+---
+
+# 📊 Power BI Dashboard
+
+After cleaning the dataset in Microsoft Excel, the cleaned data was imported into Microsoft Power BI to create an interactive sales dashboard.
+
+The dashboard includes:
+
+- KPI Cards (Total Sales, Average Sales, Maximum Sales, Total Stores)
+- Monthly Sales Trend
+- Sales by Store
+- Holiday vs Non-Holiday Sales
+- Temperature vs Weekly Sales
+- Fuel Price vs Weekly Sales
+- Unemployment vs Weekly Sales
+- Interactive Slicers (Store, Month, Holiday Flag)
+
+---
+
+## 📈 Business Insights
+
+- Sales varied significantly across Walmart stores.
+- Holiday periods influenced customer purchasing behavior.
+- Seasonal trends were observed in monthly sales.
+- Fuel price and temperature showed only a weak relationship with weekly sales.
+- The dashboard enables users to interactively filter data and gain business insights.
 
 
